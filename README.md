@@ -2,6 +2,8 @@
 
 An ESP32-based pill dispenser that rotates a servo-driven carousel at prescribed times, plays an audio/visual alert, and is managed through a built-in web dashboard. The ESP32 creates its own Wi-Fi hotspot, so no home network or internet connection is needed.
 
+![Poster](https://github.com/LakshendraSingh/goPharma/blob/main/goPharma.png)
+
 ## Features
 
 - **Self-hosted Wi-Fi hotspot** (SoftAP) with an embedded web dashboard
